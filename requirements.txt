@@ -1,8 +1,8 @@
 streamlit
+pymongo
+bson
 smtplib
 hashlib
 random
 os
-
-pymongo
-bson
+webbrowser
