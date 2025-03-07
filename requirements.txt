@@ -3,6 +3,6 @@ smtplib
 hashlib
 random
 os
-webbrowser
+
 pymongo
 bson
