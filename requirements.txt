@@ -1,6 +1,5 @@
 streamlit
 pymongo
-smtplib
 hashlib
 random
 os
